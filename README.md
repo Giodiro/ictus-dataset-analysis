@@ -12,3 +12,10 @@ A bunch of different analysis have been performed to try to understand the pheno
  - [NN projection](nn_weights_experiments/Projected prediction experiment.ipynb) : implements KRR on top of the data projected on the neural-network centers.
  - [Miscellaneous models and analyses](FalkonPredict.ipynb)
 
+
+### Running the notebooks
+
+Needs access to:
+ 1. The dataset
+ 2. Other miscellaneous pieces of code, such as an implementation of falkon (necessary for running certain experiments).
+
